@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_todo-app-loading-todos/static/css/main.37ee61fe.css",
-    "main.js": "/react_todo-app-loading-todos/static/js/main.00c8a5a3.js",
+    "main.js": "/react_todo-app-loading-todos/static/js/main.1d499ed9.js",
     "static/media/fa-solid-900.ttf": "/react_todo-app-loading-todos/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
     "static/media/fa-brands-400.ttf": "/react_todo-app-loading-todos/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
     "static/media/fa-solid-900.woff2": "/react_todo-app-loading-todos/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/react_todo-app-loading-todos/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
     "index.html": "/react_todo-app-loading-todos/index.html",
     "main.37ee61fe.css.map": "/react_todo-app-loading-todos/static/css/main.37ee61fe.css.map",
-    "main.00c8a5a3.js.map": "/react_todo-app-loading-todos/static/js/main.00c8a5a3.js.map"
+    "main.1d499ed9.js.map": "/react_todo-app-loading-todos/static/js/main.1d499ed9.js.map"
   },
   "entrypoints": [
     "static/css/main.37ee61fe.css",
-    "static/js/main.00c8a5a3.js"
+    "static/js/main.1d499ed9.js"
   ]
 }
